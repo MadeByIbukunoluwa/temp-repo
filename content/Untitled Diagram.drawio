@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T15:37:19.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5fZMWlanPkPHzsM5D6CB" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T18:09:14.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UE6IbgDous993v-pZDnz" version="20.6.0" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
-    <mxGraphModel dx="2386" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1794" dy="1241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -156,6 +156,18 @@
             <mxPoint x="2170" y="380" as="sourcePoint" />
             <mxPoint x="2170" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5dvdxru6lziGcTcdpwPS-58" value="ResultIconComponent" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="660" width="242" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5dvdxru6lziGcTcdpwPS-59" value="PaymentIconComponent" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="570" width="242" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5dvdxru6lziGcTcdpwPS-60" value="CoursesIconComponent" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="490" width="242" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5dvdxru6lziGcTcdpwPS-61" value="MoreIconComponent" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="740" width="242" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
